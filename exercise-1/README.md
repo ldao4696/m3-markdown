@@ -6,7 +6,7 @@ Then, in the space below, put your favorite quote in a block quote, and provide 
 
 See `complete` branch for an example.
 
-'''
+```
 On October 3rd, he asked me what day it was. 
 -Mean Girls 
-'''
+``` 
