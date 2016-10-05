@@ -19,7 +19,7 @@ D-69-91-156-171:~ Leah$ cd desktop
 
 1. Allows you to navigate between directories. 
 2. You can either navigate down, or up a directory
-  *Can navigate up by typing `cd ..`
-  *Navigate down by just using `cd` and the directory you want to go into.
+  1. Can navigate up by typing `cd ..`
+  2. Navigate down by just using `cd` and the directory you want to go into.
 
 
