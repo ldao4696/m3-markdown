@@ -9,3 +9,17 @@ An example of how it can be used (with appropriate code highlighting)
 A _nested list_ of information about the command (i.e., things that it does, or how it can be used)
 
 See `complete` branch for answers.
+
+#Changing Directories `cd`
+
+Example: 
+```
+D-69-91-156-171:~ Leah$ cd desktop
+```
+
+1. Allows you to navigate between directories. 
+2. You can either navigate down, or up a directory
+	*Can navigate up by typing `cd ..`
+	*Navigate down by just using `cd` and the directory you want to go into.
+
+
